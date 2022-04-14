@@ -1,11 +1,12 @@
 "# CountingSort" 
 
-Counting Sort is one of the Sorting technique. 
+Counting Sort is one of the Sorting techniques. 
 
-This code can only be used to sort positive numbers. 
+This code can only be used for sorting positive numbers. 
 
-For negative, numbers there could be another solution.
+For negative numbers, there could be another solution.
 
+==============================
 Counting sort implementation
 ==============================
 1. Given an array of positive elements
@@ -25,4 +26,4 @@ Counting sort implementation
       d. update the val in the result array at index indx
 9. Finally, we get the sorted array.
 
-Note: This implementation is applicable for array containing only positive numbers.
+Note: This implementation is applicable for an array containing only positive numbers.
